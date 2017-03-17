@@ -1,0 +1,3 @@
+# Module gaejxmpptutorial
+# RPC service class, partial path of RPC policy file
+com.gaejexperiments.xmpptutorial.client.GreetingService, 4649D996BEF640B76546B7ABEEC1D4AD.gwt.rpc
